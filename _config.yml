@@ -22,9 +22,7 @@ title: Adventures in InfoSec
 description: Exploring CyberSecurity. 
 
 # Build settings
-# Modify the default theme to a custom theme  -NM
-# theme: minima  # Defaul Theme
-theme: jekyll-theme-hacker # Custom Theme
+theme: minima
 plugins:
   - jekyll-feed
 
